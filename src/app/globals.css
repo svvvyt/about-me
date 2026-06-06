@@ -17,7 +17,7 @@ body {
   background: #050508;
   color: #e8e4f0;
   font-family: var(--font-syne);
-  overflow: hidden;
+  overflow-y: auto;
 }
 
 a {
