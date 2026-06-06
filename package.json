@@ -9,21 +9,21 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "15.1.0",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "three": "^0.170.0",
     "@types/three": "^0.170.0",
     "framer-motion": "^11.15.0",
-    "lenis": "^1.1.14"
+    "lenis": "^1.1.14",
+    "next": "^16.2.7",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "three": "^0.170.0"
   },
   "devDependencies": {
-    "typescript": "^5",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-    "tailwindcss": "^3.4.1",
+    "autoprefixer": "^10.0.1",
     "postcss": "^8",
-    "autoprefixer": "^10.0.1"
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
   }
 }
